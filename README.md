@@ -1,2 +1,2 @@
 # Web3-Voting-System
-Decentralized web3 Voting system
+This is a decentralized voting system built on blockchain technology, designed to provide secure, transparent, and tamper-proof elections. Users can cast votes using their crypto wallets, while all votes are recorded on the blockchain for verifiable and auditable results. The system ensures privacy, prevents double voting, and eliminates the need for centralized authorities, making it ideal for organizations, communities, or governance applications looking for a trustworthy digital voting solution.
